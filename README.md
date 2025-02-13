@@ -26,6 +26,6 @@ Now, let's the fun begin by finding all data here: https://drive.google.com/driv
 2. _(to be updated)_
 
 # Personal message!
-* If these dataset help you with your research, I am happy if you can buy me some coffee at https://buymeacoffee.com/minhtriphan
+* If these dataset help you with your research, I am happy if you buy me some coffee at :coffee: https://buymeacoffee.com/minhtriphan :coffee:
 * If you have some ideas on how to exploit these data further or on which data you might want me to exploit (and those also complies with the above-mentioned criteria), please contact me via phanminhtri2611@gmail.com or triminh.phan@unibas.ch!
 * I am also open to discuss research ideas with you!
